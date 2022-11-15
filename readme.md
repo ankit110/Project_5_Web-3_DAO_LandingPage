@@ -4,7 +4,7 @@
 
 # 📌 ** Project Link 👇** 
 
-[Web3-DAO_Home_Landing_page](https://thunderous-kitten-6be33a.netlify.app/)
+[Web3-DAO_Home_Landing_page](https://zippy-mochi-37278a.netlify.app/)
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
