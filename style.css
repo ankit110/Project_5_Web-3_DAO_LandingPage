@@ -6,7 +6,7 @@ body {
     font-family: 'Roboto', sans-serif;
     height: 100%;
     width: 100%;
-    background-image: url("/assets/bg.png");
+    background-image: url("./assets/bg.png");
     background-size: cover;
 }
 
